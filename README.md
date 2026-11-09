@@ -1,2 +1,2 @@
-# CDJ-3000-AES-256
-yes
+# CDJ-3000-AES-256-Key
+
